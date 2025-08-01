@@ -1,6 +1,6 @@
 import React from 'react';
 import { NavLink, Link  } from 'react-router-dom';
-import logo from '../assets/logo.png';
+import logo from '../assets/Logo.png';
 
 const Header = () => (
   <header className="flex items-center justify-between px-8 py-4 border-b bg-white">
