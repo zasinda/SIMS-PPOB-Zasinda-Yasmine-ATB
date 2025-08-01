@@ -4,7 +4,7 @@ import * as Yup from 'yup';
 import api from '../services/api';
 import { Mail, User, Lock, Eye, EyeOff } from 'lucide-react';
 import ilustrasi from '../assets/IllustrasiLogin.png';
-import logo from '../assets/logo.png';
+import logo from '../assets/Logo.png';
 
 const Register = () => {
   const [showPassword, setShowPassword] = useState(false);
